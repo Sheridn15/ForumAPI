@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2#zo$gn^c7*g)ez*@51pf2zks_bsc$ha6z2a)72r^hsgq)ar34
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -80,12 +80,13 @@ WSGI_APPLICATION = 'FormAPI.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'FormAPI',
-        'USER': 'postgres',
-        'PASSWORD': '2009',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlшеу3',
+        'NAME': BASE_DIR,
+        # 'NAME': 'FormAPI',
+        # 'USER': 'postgres',
+        # 'PASSWORD': '2009',
+        # 'HOST': 'localhost',
+        # 'PORT': '5432',
     }
 }
 REST_FRAMEWORK = {

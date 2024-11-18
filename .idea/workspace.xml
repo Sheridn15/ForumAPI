@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8c8db36-4063-4b5f-ac3a-f12d5d914781" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FormAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FormAPI/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FormAPI/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FormAPI/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FormAPI/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FormAPI/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forum/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forum/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forum/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forum/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forum/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forum/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forum/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forum/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forum/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +35,7 @@
   "keyToString": {
     "Python.tests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
