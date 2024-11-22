@@ -80,8 +80,8 @@ WSGI_APPLICATION = 'FormAPI.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlшеу3',
-        'NAME': BASE_DIR,
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
         # 'NAME': 'FormAPI',
         # 'USER': 'postgres',
         # 'PASSWORD': '2009',
